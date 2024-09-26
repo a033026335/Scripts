@@ -1,2 +1,6 @@
 # Scripts
-Scripts for pentesting
+Scripts for pentesting which includes the following:
+
+  sessionhijacking
+  csrf
+  clickjacking
